@@ -1,0 +1,14 @@
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\bin\Debug\netcoreapp2.1\RestCustomerServiceCore.deps.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\bin\Debug\netcoreapp2.1\RestCustomerServiceCore.runtimeconfig.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\bin\Debug\netcoreapp2.1\RestCustomerServiceCore.runtimeconfig.dev.json
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\bin\Debug\netcoreapp2.1\RestCustomerServiceCore.dll
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\bin\Debug\netcoreapp2.1\RestCustomerServiceCore.pdb
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.RazorAssemblyInfo.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.RazorAssemblyInfo.cs
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.AssemblyInfoInputs.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.AssemblyInfo.cs
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.RazorTargetAssemblyInfo.cache
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.dll
+C:\Users\Marek\Desktop\School\Networking\RestCustomerServiceCore\RestCustomerServiceCore\obj\Debug\netcoreapp2.1\RestCustomerServiceCore.pdb
